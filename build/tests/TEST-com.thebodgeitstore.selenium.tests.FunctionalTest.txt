@@ -1,0 +1,4 @@
+Testsuite: com.thebodgeitstore.selenium.tests.FunctionalTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 48.433 sec
+
+Testcase: testAll took 48.299 sec

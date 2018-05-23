@@ -1,0 +1,4 @@
+Testsuite: com.thebodgeitstore.selenium.tests.FunctionalZAP
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 46.943 sec
+
+Testcase: testAll took 46.813 sec
